@@ -12,7 +12,7 @@
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.10.6",
     "@mui/material": "^5.10.6",
-    "@okta/okta-auth-js": "6.7.7",
+    "@okta/okta-auth-js": "7.2.0",
     "@okta/okta-react": "^6.6.0",
     "axios": "^0.27.2",
     "colors": "1.4.0",
